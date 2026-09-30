@@ -66,7 +66,7 @@ Prueba a compilar el paquete Debug del proyecto desde consola:
 ## Instalación y ejecución
 
 1. Descomprimir `AppClubDeportivo-main.zip` (se descarga desde GitHub con **Code › Download ZIP**).
-2. En Android Studio: **File › Open…** y elegir la carpeta que contiene el archivo `settings.gradle.kts`.
+2. En Android Studio: **File › Open…** y elegir la carpeta `AppClubDeportivo-main` (la que contiene el archivo `settings.gradle.kts`). Si al descomprimir quedó una carpeta `AppClubDeportivo-main` dentro de otra con el mismo nombre, elegir la de adentro.
 3. Esperar el **Gradle Sync** (barra inferior). Si pide instalar SDK/Build-Tools, aceptar.
 4. Crear un emulador si no hay uno: **Device Manager › Create Device** (por ejemplo Pixel 7, API 34).
 5. Presionar **Run ▶** (`Shift+F10`). La app arranca en la pantalla inicial.
